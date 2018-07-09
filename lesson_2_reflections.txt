@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
 -Staging area is a fictitious location of the files that are changed and hence have to be committed whereas working directory and the repository are real locations that contain the files. 
 -It offers easy view-ability since the programmer can easily view the files that have to be committed.
 
+How can you use the staging area to make sure you have one commit per logical change?
+-whichever file we change we can add it to staging area. if the staging area contains more than one file than it indicates that there is more than one commit per logical change hence we can prevent this from happening.
