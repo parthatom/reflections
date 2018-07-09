@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+-it gets git in it so its important to initialize
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-Staging area is a fictitious location of the files that are changed and hence have to be committed whereas working directory and the repository are real locations that contain the files. 
+-It offers easy view-ability since the programmer can easily view the files that have to be committed.
+
