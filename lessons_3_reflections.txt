@@ -2,3 +2,7 @@ When would you want to create a remote repository rather than keeping all your w
 -when i run out of space locally 
 -when working on a secret project
 -when working on the go
+
+Why might you want to always pull changes manually rather than having Git autmatically stay up-to-date with your remote repository?
+-when different people are working on different branches where ideas are different so people wont want to keep the other branches with themselves locally.
+
