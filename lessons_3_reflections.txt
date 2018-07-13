@@ -15,3 +15,5 @@ Describe the differences between forks, clones, and branches. When would you use
 -used to create different ideas 
 -used for different collaborators
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-having a copy of the last known state of the remote stored locally can be beneficial because developing further on the project will be easier
