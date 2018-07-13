@@ -7,3 +7,10 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 -whichever file we change we can add it to staging area. if the staging area contains more than one file than it indicates that there is more than one commit per logical change hence we can prevent this from happening.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-Branches will be helpful when we are adding new levels or when experimenting a different setup
+-when different are developing we can use different branches for that too.
+
+How do the diagrams help you visualize the branch structure?
+-diagrams help viewing what versions and commits are a part of which branch
