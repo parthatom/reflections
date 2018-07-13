@@ -18,3 +18,11 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 -merging two branches helps include the features added by two different collaborators to the master branch
 --it is represented this way because after merging both the branches become one 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-pros of gits automatic merging
+--saves a lot of time
+--the collaborators dont need to understand the working of the code for them to include it in their branch
+-cons of gits automatic merging
+--creates conflicts that have to be resolved indepedently
+
