@@ -21,3 +21,10 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -without using github i can share my work using dropbox and other stuff like that; easier- automatic syncing of files through the desktop versions of dropbox and google drive, no need to push or pull 
 -; harder- merging projects, versions cannot be controlled manually which leads to a lot of versions stored, versions lost after a certain time
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+--different branches
+-when you want to create different versions of the same programme
+-when you are not sure about a certain feature.
+--master
+-chaos of so many branches can be avoided
